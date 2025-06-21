@@ -41,7 +41,7 @@ The dataset includes features like:
 To run this notebook:
 
 ```bash
-git clone https://github.com/your-username/customer-churn.git
+git clone https://github.com/sravanjaggarapu/customer-churn.git
 cd customer-churn
 pip install -r requirements.txt
 jupyter notebook
